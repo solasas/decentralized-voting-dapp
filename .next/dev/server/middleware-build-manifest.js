@@ -1,0 +1,36 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/": [
+      "static/chunks/a4d11_next_dist_compiled_7eea0925._.js",
+      "static/chunks/a4d11_next_dist_shared_lib_46b3225f._.js",
+      "static/chunks/a4d11_next_dist_client_3cfeed9d._.js",
+      "static/chunks/a4d11_next_dist_915fd85b._.js",
+      "static/chunks/a4d11_react-dom_50adf692._.js",
+      "static/chunks/a4d11_6f20099d._.js",
+      "static/chunks/[root-of-the-server]__700e43af._.js",
+      "static/chunks/Documents_programming_Projects_Voting DApp_voting-dapp_pages_index_2da965e7._.js",
+      "static/chunks/358b3_programming_Projects_Voting DApp_voting-dapp_pages_index_cd9f6a6a._.js"
+    ],
+    "/_app": [
+      "static/chunks/a4d11_next_dist_compiled_7eea0925._.js",
+      "static/chunks/a4d11_next_dist_shared_lib_46b3225f._.js",
+      "static/chunks/a4d11_next_dist_client_3cfeed9d._.js",
+      "static/chunks/a4d11_next_dist_dc65d39d._.js",
+      "static/chunks/a4d11_next_app_cd6ce6e8.js",
+      "static/chunks/[next]_entry_page-loader_ts_5abbd342._.js",
+      "static/chunks/a4d11_react-dom_50adf692._.js",
+      "static/chunks/a4d11_4b3d4d98._.js",
+      "static/chunks/[root-of-the-server]__2db959a8._.js",
+      "static/chunks/Documents_programming_Projects_Voting DApp_voting-dapp_pages__app_2da965e7._.js",
+      "static/chunks/358b3_programming_Projects_Voting DApp_voting-dapp_pages__app_b38471c6._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];

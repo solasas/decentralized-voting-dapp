@@ -1,0 +1,11 @@
+__turbopack_load_page_chunks__("/", [
+  "static/chunks/a4d11_next_dist_compiled_7eea0925._.js",
+  "static/chunks/a4d11_next_dist_shared_lib_46b3225f._.js",
+  "static/chunks/a4d11_next_dist_client_3cfeed9d._.js",
+  "static/chunks/a4d11_next_dist_915fd85b._.js",
+  "static/chunks/a4d11_react-dom_50adf692._.js",
+  "static/chunks/a4d11_6f20099d._.js",
+  "static/chunks/[root-of-the-server]__700e43af._.js",
+  "static/chunks/Documents_programming_Projects_Voting DApp_voting-dapp_pages_index_2da965e7._.js",
+  "static/chunks/358b3_programming_Projects_Voting DApp_voting-dapp_pages_index_cd9f6a6a._.js"
+])
