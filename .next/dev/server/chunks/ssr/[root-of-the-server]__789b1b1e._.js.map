@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/sashanksolasa/Documents/programming/Projects/Voting%20DApp/voting-dapp/pages/index.js"],"sourcesContent":["import React from 'react'\n\nconst index = () => {\n  return (\n    <div>index</div>\n  )\n}\n\nexport default index"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,QAAQ;IACZ,qBACE,qKAAC;kBAAI;;;;;;AAET;uCAEe"}}]
+}

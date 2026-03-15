@@ -473,19 +473,16 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$programming$2f$
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$programming$2f$Projects$2f$Voting__DApp$2f$voting$2d$dapp$2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documents/programming/Projects/Voting DApp/voting-dapp/node_modules/react/index.js [client] (ecmascript)");
 ;
 ;
-const Home = ()=>{
+const index = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$programming$2f$Projects$2f$Voting__DApp$2f$voting$2d$dapp$2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        children: " Home"
+        children: "index"
     }, void 0, false, {
         fileName: "[project]/Documents/programming/Projects/Voting DApp/voting-dapp/pages/index.js",
         lineNumber: 5,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
-_c = Home;
-const __TURBOPACK__default__export__ = Home;
-var _c;
-__turbopack_context__.k.register(_c, "Home");
+const __TURBOPACK__default__export__ = index;
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
     __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
 }
